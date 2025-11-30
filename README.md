@@ -589,6 +589,7 @@ project-name/
 ---
 
 ## 12. Contributors
+```
 - Thông tin tác giả: 
  - Họ và Tên: Nguyễn Đăng Pha
  - Mssv: 23120315
@@ -596,6 +597,8 @@ project-name/
 - Contact:
  - Email: 23120315@student.hcmus.edu.vn
  - Github: PhaPDA13
+
+```
 
 
 ## 13. License
