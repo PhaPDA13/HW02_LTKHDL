@@ -544,6 +544,7 @@ Mô hình Logistic Regression được huấn luyện trên dữ liệu cân b�
 
 ## 9. Cấu trúc Project
 
+```
 project-name/
 ├── README.md                          # Chứa các thông tin về project
 ├── requirements.txt                   # Chứa các thư viện yêu cầu
@@ -561,7 +562,7 @@ project-name/
 │   ├── data_processing.py     # Chứa các module cho `01_data_exploration.ipynb` và `02_preprocessing.ipynb`
 │   ├── visualization.py       # Chứa các module để visualization
 │   └── models.py              # Chứa model(Logistic regression) và các module được implement bằng Numpy
-
+```
 ---
 
 ## 10. Challenges & Solutions
