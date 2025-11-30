@@ -2,14 +2,8 @@
 
 ### Credit Card Fraud Detection - Phát Hiện Gian Lận Thẻ Tín Dụng
 
-Mô tả:
-Project xây dựng hệ thống phát hiện gian lận thẻ tín dụng bằng cách sử dụng model `Logistic regression`.
-
-Dataset:
-284,807 giao dịch từ khoảng 2 ngày
-492 giao dịch gian lận (0.172% - cực kỳ mất cân bằng)
-30 features: Time, V1-V28 (PCA), Amount
-Target: Class (0 = Normal, 1 = Fraud)
+Mô tả project:
+Xây dựng 1 hệ thống phát hiện gian lận thẻ ngân hàng. Sử dụng `Numpy` để xử lý và tính toán, cũng như cài đặt model học máy `Logistic Regression`. Ngoài ra, có sử dụng các thư viện `seaborn` và `matplotlib.pyplot` để visualization.
 
 ---
 
