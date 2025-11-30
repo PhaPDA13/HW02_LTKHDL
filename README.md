@@ -14,19 +14,19 @@ Target: Class (0 = Normal, 1 = Fraud)
 ---
 
 ## 2. Mục lục
-- 1. Tiêu đề và mô tả
-- 2. Mục lục
-- 3. Giới thiệu
-- 4. Dataset
-- 5. Phương pháp (Method)
-- 6. Cài đặt (Installation)
-- 7. Cách sử dụng (Usage)
-- 8. Kết quả (Results)
-- 9. Cấu trúc Project
-- 10. Challenges & Solutions
-- 11. Future Improvements
-- 12. Contributors
-- 13. License
+1. Tiêu đề và mô tả
+2. Mục lục
+3. Giới thiệu
+4. Dataset
+5. Phương pháp (Method)
+6. Cài đặt (Installation)
+7. Cách sử dụng (Usage)
+8. Kết quả (Results)
+9. Cấu trúc Project
+10. Challenges & Solutions
+11. Future Improvements
+12. Contributors
+13. License
 
 ---
 
